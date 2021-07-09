@@ -182,16 +182,16 @@ h1 {
 
 transform: scale(1.2);
 box-shadow: -20px 10px 20px rgba(0,0,0,0.19), 10px 6px 6px rgba(0,0,0,0.23);
-border:double;
-border-color:yellow ;
+border:solid;
+border-color:gray ;
 
 }
 .a2 div:hover{
 
 transform: scale(1.2);
 box-shadow: -20px 10px 20px rgba(0,0,0,0.19), 10px 6px 6px rgba(0,0,0,0.23);
-border:double;
-border-color:cyan ;
+border:solid;
+border-color:gray ;
 
 
 }
